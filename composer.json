@@ -23,7 +23,7 @@
         "psr-4": { "SLLH\\IsoCodesValidatorBundle\\": "src" }
     },
     "autoload-dev": {
-        "psr-4": { "SLLH\\IsoCodesValidatorBundle\\Tests\\": "src" }
+        "psr-4": { "SLLH\\IsoCodesValidatorBundle\\Tests\\": "tests" }
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
