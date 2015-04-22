@@ -1,6 +1,7 @@
 {
     "name": "sllh/iso-codes-validator-bundle",
-    "description": "t",
+    "type": "symfony-bundle",
+    "description": "Provides easy implementation of IsoCodesValidator",
     "license": "MIT",
     "authors": [
         {
