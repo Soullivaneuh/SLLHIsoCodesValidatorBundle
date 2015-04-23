@@ -24,17 +24,11 @@ This version of the bundle requires Symfony 2.3+.
 
 ### Download using composer
 
-Add SLLHIsoCodesValidatorBundle by running the command:
-
 ``` bash
 $ php composer.phar require sllh/iso-codes-validator-bundle "~1.0"
 ```
 
-Composer will install the bundle to your project's `vendor/sllh` directory.
-
 ### Enable the bundle
-
-Enable the bundle in the kernel:
 
 ``` php
 <?php
