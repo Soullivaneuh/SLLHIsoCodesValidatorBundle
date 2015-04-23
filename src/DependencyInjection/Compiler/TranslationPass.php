@@ -21,6 +21,10 @@ class TranslationPass implements CompilerPassInterface
      */
     public function process(ContainerBuilder $container)
     {
+        if (!$container->hasDefinition('translator.default')) {
+            return;
+        }
+
         $translator = $container->findDefinition('translator.default');
 
         $r = new \ReflectionClass('SLLH\IsoCodesValidator\IsoCodesConstraintValidator');
