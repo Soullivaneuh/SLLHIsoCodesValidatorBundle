@@ -51,7 +51,7 @@ public function registerBundles()
 
 ## Usage
 
-Online documentation of IsoCodesValidator can be found on the main project: https://github.com/Soullivaneuh/IsoCodesValidator
+Usage documentation can be found [IsoCodesValidator](https://github.com/Soullivaneuh/IsoCodesValidator) project.
 
 ## License
 
