@@ -51,7 +51,7 @@ public function registerBundles()
 
 ## Usage
 
-Usage documentation can be found [IsoCodesValidator](https://github.com/Soullivaneuh/IsoCodesValidator) project.
+Usage documentation can be found on [IsoCodesValidator](https://github.com/Soullivaneuh/IsoCodesValidator) project.
 
 ## License
 
