@@ -12,7 +12,7 @@
          syntaxCheck="false">
 
     <testsuites>
-        <testsuite name="IsoCodesValidator Test Suite">
+        <testsuite name="SLLHIsoCodesValidatorBundle Test Suite">
             <directory >./tests/</directory>
         </testsuite>
     </testsuites>
