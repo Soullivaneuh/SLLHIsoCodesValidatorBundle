@@ -13,7 +13,7 @@ Provides easy implementation of [IsoCodesValidator](https://github.com/Soullivan
 [![Build Status](https://travis-ci.org/Soullivaneuh/SLLHIsoCodesValidatorBundle.svg?branch=master)](https://travis-ci.org/Soullivaneuh/SLLHIsoCodesValidatorBundle)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Soullivaneuh/SLLHIsoCodesValidatorBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Soullivaneuh/SLLHIsoCodesValidatorBundle/?branch=master)
 [![Code Climate](https://codeclimate.com/github/Soullivaneuh/SLLHIsoCodesValidatorBundle/badges/gpa.svg)](https://codeclimate.com/github/Soullivaneuh/SLLHIsoCodesValidatorBundle)
-[![Coverage Status](https://coveralls.io/repos/Soullivaneuh/SLLHIsoCodesValidatorBundle/badge.svg)](https://coveralls.io/r/Soullivaneuh/SLLHIsoCodesValidatorBundle)
+[![Coverage Status](https://coveralls.io/repos/Soullivaneuh/SLLHIsoCodesValidatorBundle/badge.svg?branch=master)](https://coveralls.io/r/Soullivaneuh/SLLHIsoCodesValidatorBundle?branch=master)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/af4f2270-b639-4c04-bee7-773d7a22d93f/mini.png)](https://insight.sensiolabs.com/projects/af4f2270-b639-4c04-bee7-773d7a22d93f)
 
 ## TODO
