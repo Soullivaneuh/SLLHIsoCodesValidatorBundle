@@ -28,11 +28,11 @@ class TranslationPass implements CompilerPassInterface
         $translator = $container->findDefinition('translator.default');
 
         $r = new \ReflectionClass('SLLH\IsoCodesValidator\IsoCodesConstraintValidator');
-        $translationsDir = dirname($r->getFilename()).'/Resources/translations';
+        $translationsDir = dirname($r->getFilename()) . '/Resources/translations';
 
         $finder = Finder::create()
             ->files()
-            ->filter(function (\SplFileInfo $file) {
+            ->filter(function(\SplFileInfo $file) {
                 return 2 === substr_count($file->getBasename(), '.') && preg_match('/\.\w+$/', $file->getBasename());
             })
             ->in($translationsDir)
