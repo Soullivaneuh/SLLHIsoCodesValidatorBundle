@@ -22,7 +22,7 @@ This version of the bundle requires Symfony 2.3+.
 
 ## Installation
 
-### Download SLLHIsoCodesValidatorBundle using composer
+### Download using composer
 
 Add SLLHIsoCodesValidatorBundle by running the command:
 
