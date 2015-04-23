@@ -1,4 +1,4 @@
-# IsoCodes Validator Bundle
+# SLLHIsoCodesValidatorBundle
 
 Provides easy implementation of [IsoCodesValidator](https://github.com/Soullivaneuh/IsoCodesValidator).
 
@@ -16,8 +16,43 @@ Provides easy implementation of [IsoCodesValidator](https://github.com/Soullivan
 [![Coverage Status](https://coveralls.io/repos/Soullivaneuh/SLLHIsoCodesValidatorBundle/badge.svg?branch=master)](https://coveralls.io/r/Soullivaneuh/SLLHIsoCodesValidatorBundle?branch=master)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/af4f2270-b639-4c04-bee7-773d7a22d93f/mini.png)](https://insight.sensiolabs.com/projects/af4f2270-b639-4c04-bee7-773d7a22d93f)
 
-## TODO
+## Prerequisites
 
- * Add documentation
- * Push stable version
- * Add Licence file
+This version of the bundle requires Symfony 2.3+.
+
+## Installation
+
+### Download SLLHIsoCodesValidatorBundle using composer
+
+Add SLLHIsoCodesValidatorBundle by running the command:
+
+``` bash
+$ php composer.phar require sllh/iso-codes-validator-bundle "~1.0"
+```
+
+Composer will install the bundle to your project's `vendor/sllh` directory.
+
+### Enable the bundle
+
+Enable the bundle in the kernel:
+
+``` php
+<?php
+// app/AppKernel.php
+
+public function registerBundles()
+{
+    $bundles = array(
+        // ...
+        new SLLH\IsoCodesValidatorBundle\SLLHIsoCodesValidatorBundle(),
+    );
+}
+```
+
+## Usage
+
+Online documentation of IsoCodesValidator can be found on the main project: https://github.com/Soullivaneuh/IsoCodesValidator
+
+## License
+
+This bundle is under the MIT license. See the complete license on the [LICENSE](https://github.com/Soullivaneuh/SLLHIsoCodesValidatorBundle/blob/master/LICENSE) file.
