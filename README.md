@@ -20,6 +20,18 @@ Provides easy implementation of [IsoCodesValidator](https://github.com/Soullivan
 
 This version of the bundle requires Symfony 2.3+.
 
+### Translations
+
+If you wish to use default validator messages translations in this bundle,
+you have to make sure you have translator enabled in your config.
+
+``` yaml
+# app/config/config.yml
+
+framework:
+    translator: ~
+```
+
 ## Installation
 
 ### Download using composer
