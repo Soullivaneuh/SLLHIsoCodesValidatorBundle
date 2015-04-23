@@ -12,6 +12,7 @@
     "require": {
         "php": ">=5.3.3",
         "symfony/framework-bundle": "~2.3",
+        "symfony/finder": "~2.3",
         "sllh/iso-codes-validator": "~1.0"
     },
     "require-dev": {
