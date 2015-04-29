@@ -18,7 +18,7 @@ Provides easy implementation of [IsoCodesValidator](https://github.com/Soullivan
 
 ## Prerequisites
 
-This version of the bundle requires Symfony 2.3+.
+This version of the bundle requires Symfony 2.1+.
 
 ### Translations
 
