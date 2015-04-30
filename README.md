@@ -62,7 +62,3 @@ Usage documentation can be found on [IsoCodesValidator](https://github.com/Soull
 ## License
 
 This bundle is under the MIT license. See the complete license on the [LICENSE](https://github.com/Soullivaneuh/SLLHIsoCodesValidatorBundle/blob/master/LICENSE) file.
-
-## Todo
-
- * Changelog file before pusing new stable version
