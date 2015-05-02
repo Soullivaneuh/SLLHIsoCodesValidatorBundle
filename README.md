@@ -5,6 +5,7 @@ Provides easy implementation of [IsoCodesValidator](https://github.com/Soullivan
 [![Latest Stable Version](https://poser.pugx.org/sllh/iso-codes-validator-bundle/v/stable)](https://packagist.org/packages/sllh/iso-codes-validator-bundle)
 [![Latest Unstable Version](https://poser.pugx.org/sllh/iso-codes-validator-bundle/v/unstable)](https://packagist.org/packages/sllh/iso-codes-validator-bundle)
 [![License](https://poser.pugx.org/sllh/iso-codes-validator-bundle/license)](https://packagist.org/packages/sllh/iso-codes-validator-bundle)
+[![Dependency Status](https://www.versioneye.com/php/sllh:iso-codes-validator-bundle/badge.svg)](https://www.versioneye.com/php/sllh:iso-codes-validator-bundle)
 
 [![Total Downloads](https://poser.pugx.org/sllh/iso-codes-validator-bundle/downloads)](https://packagist.org/packages/sllh/iso-codes-validator-bundle)
 [![Monthly Downloads](https://poser.pugx.org/sllh/iso-codes-validator-bundle/d/monthly)](https://packagist.org/packages/sllh/iso-codes-validator-bundle)
