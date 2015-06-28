@@ -27,7 +27,7 @@ class TranslationPass implements CompilerPassInterface
 
         $translator = $container->findDefinition('translator.default');
 
-        $r = new \ReflectionClass('SLLH\IsoCodesValidator\IsoCodesConstraintValidator');
+        $r = new \ReflectionClass('SLLH\IsoCodesValidator\AbstractIsoCodesConstraintValidator');
         $translationsDir = dirname($r->getFilename()) . '/Resources/translations';
 
         $finder = Finder::create()
