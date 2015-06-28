@@ -5,6 +5,9 @@ namespace SLLH\IsoCodesValidatorBundle\Tests;
 use Matthias\SymfonyDependencyInjectionTest\PhpUnit\AbstractContainerBuilderTestCase;
 use SLLH\IsoCodesValidatorBundle\SLLHIsoCodesValidatorBundle;
 
+/**
+ * @group legacy
+ */
 class SLLHIsoCodesValidatorBundleTest extends AbstractContainerBuilderTestCase
 {
     /**
